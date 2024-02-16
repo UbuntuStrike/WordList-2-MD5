@@ -1,4 +1,4 @@
-# effective-couscous
+# Wordlist 2 MD5
 Bash script that will convert each line in a wordlist to MD5
 
 Useage
